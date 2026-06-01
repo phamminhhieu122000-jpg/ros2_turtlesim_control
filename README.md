@@ -21,6 +21,9 @@ Project này chứa một package ROS 2 viết bằng Python (`turtlesim_control
 
 ## 📦 Hướng dẫn cài đặt và Biên dịch
 
+Tạo thư mục dự án mới
+# Tạo thư mục dự án mới (nếu chưa có)
+mkdir -p ~/Study/ROS2/workspace/src
 1. **Di chuyển vào thư mục nguồn của Workspace:**
    ```bash
    cd ~/workspace/src
